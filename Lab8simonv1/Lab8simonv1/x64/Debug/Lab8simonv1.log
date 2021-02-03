@@ -1,0 +1,4 @@
+﻿  Nyhof_Bar_L1V_Lab8_SimonV1.c
+c:\users\barny\source\repos\lab8simonv1\lab8simonv1\nyhof_bar_l1v_lab8_simonv1.c(54): warning C4244: 'function': conversion from 'time_t' to 'unsigned int', possible loss of data
+c:\users\barny\source\repos\lab8simonv1\lab8simonv1\nyhof_bar_l1v_lab8_simonv1.c(114): warning C4244: 'function': conversion from 'time_t' to 'unsigned int', possible loss of data
+  Lab8simonv1.vcxproj -> C:\Users\barny\source\repos\Lab8simonv1\x64\Debug\Lab8simonv1.exe
